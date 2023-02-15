@@ -1,0 +1,2 @@
+# python-proje
+Python Proje
